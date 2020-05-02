@@ -1,2 +1,4 @@
 git練習
 manabimasu
+/git add
+ git commit
